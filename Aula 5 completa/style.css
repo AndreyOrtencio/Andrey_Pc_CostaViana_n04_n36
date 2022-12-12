@@ -1,0 +1,93 @@
+
+body {
+color: black;
+}
+#imagem01 {
+	width:50%;
+	padding: 20px;
+}
+#imagem01 {
+	background: #006400;
+	padding: 20px;
+}
+#principal {
+	background: #DCDCDC;
+	padding: 50px;
+	width: 20%;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 1000px
+}
+
+em strong {
+	color: #FFF000;
+}
+
+.itens {
+	font-style: bold italic;
+}
+
+.imagem03 {
+	background: #006400;
+	padding: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display text-align
+	vertical-align: text-bottom;
+	width: 20%;
+	margin-right: 60%;
+}
+
+.imagem03 {
+	width: 40%;
+}
+
+.h3 {
+	font-size: 30px
+}
+.principal {
+	font-size: 22px
+}
+.fundo {
+	background: #DCDCDC;
+	padding: 20px;
+}
+.itens {
+	text-rendering: optimizeLegibility;
+	padding: 20px;
+}
+.imagem04 {
+	width:150%;
+	padding:100px;
+}
+.fundo {
+	border: 9px solid #000;
+}
+.lado {
+	 display: flex;
+	 align-items: center;
+}
+h5 {
+	font-size: 22px
+}
+.imagem05 {
+	width:65%;
+	padding:80px;
+}
+.imagem06 {
+	width:30%;
+	padding:60px;
+}
